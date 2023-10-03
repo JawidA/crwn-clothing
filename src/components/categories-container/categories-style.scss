@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.categories-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: auto;
+  width: 1700px;
+  max-width: 90%;
+}
